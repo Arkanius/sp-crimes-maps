@@ -6,4 +6,4 @@ Fell free to filter types os crimes, cities, police stations, and other data pre
 
 ### Example:
 
-![Map of SP](occurencies.png)
+![Map of SP](occurrencies.png)
